@@ -2,7 +2,7 @@
 
 This is a Movie recommendator app. You can watch trailer , rating etc and Choose your favourite movie to watch . 
 
-Screenshots:-
+
 <img src="https://user-images.githubusercontent.com/89076731/133922427-e6a9f8a5-51a2-417d-ac48-f37627478233.jpg" width="300">
 <img src="https://user-images.githubusercontent.com/89076731/133922431-339fc7e1-def6-43fd-b202-74e408f9a761.jpg" width="300">
 <img src="https://user-images.githubusercontent.com/89076731/133922435-dd4b32f7-8ac0-41e7-afe4-32f017485eca.jpg" width="300">
