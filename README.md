@@ -9,9 +9,9 @@ This is a Movie recommendator app. You can watch trailer , rating etc and Choose
 <img src="https://user-images.githubusercontent.com/89076731/133922443-6e6c0220-f275-4496-85f2-e9ed86782386.jpg" width="300">
 <img src="https://user-images.githubusercontent.com/89076731/133922447-15eccf8c-5b5d-4810-960a-3f15f52bcef4.jpg" width="300">
 
-
-
-
+# Info
+This app uses TMDB Api which fetches data of popular movies, trending movies, Videos etc.
+Youtube plugin is used to play video trailers.
 
 ## Getting Started
 
